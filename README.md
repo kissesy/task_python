@@ -4,3 +4,6 @@ first python_task
 cd diary_src 
 
 second python_task
+
+
+DO NOT FORGET TO ADD STAR! OK?
